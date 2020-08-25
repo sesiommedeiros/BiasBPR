@@ -1,4 +1,4 @@
-# BiasBPRM
+# BiasBPR
 Improved estimators in beta prime regression models
 
 Steps to obtain the maximum likelihood estimates and Improved estimators in beta prime regression models, proposed in Medeiros, F. M. C. et al. (2020) Section 5.
