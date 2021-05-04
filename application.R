@@ -1,8 +1,7 @@
 ###################################################################
 # Improved estimators in beta prime regression models 
 # Application
-# Francisco M.C. Medeiros, Mariana C. Araújo, Marcelo Bourguignon
-# AStA Advances in Statistical Analysis
+# Francisco M.C. Medeiros, Mariana C. AraÃºjo, Marcelo Bourguignon
 # Date: 25/08/2020
 #################################################################### 
 
